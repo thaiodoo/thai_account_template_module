@@ -11,7 +11,7 @@ Chart of Accounts for Thailand.
 
 Thai accounting chart and localization.
     """,
-    'author': 'ThaiOdoo Community',
+    'author': 'Amacom,ThaiOdoo Community',
     'website': 'http://thaiodoo.org/',
     'depends': ['account'],
     'data': [
